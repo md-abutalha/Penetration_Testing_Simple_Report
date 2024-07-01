@@ -91,9 +91,6 @@ I will perform website penetration testing with detailed reports on the followin
 ---
 
 ## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Md. Abu Talha  
