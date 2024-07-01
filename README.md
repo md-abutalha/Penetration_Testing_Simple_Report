@@ -39,7 +39,7 @@ I will perform website penetration testing with detailed reports on the followin
 ![Command Injection](https://github.com/md-abutalha/Penetration_Testing_Simple_Report/assets/101306544/43238ef5-b0d2-460a-83b7-da6f4d5c99b3)
 
 ## XSS
-![XSS](https://github.com/md-abutalha/Penetration_Testing_Simple_Report/assets/101306544/ae3b31d3-d870-461d-ae1a-62beff694b2b)
+![XSS ](https://github.com/md-abutalha/Penetration_Testing_Simple_Report/assets/101306544/5ef6f130-0f11-403a-9246-590c62ba8471)
 
 ## XSS Recommendation
 ![XSS Recommendation](https://github.com/md-abutalha/Penetration_Testing_Simple_Report/assets/101306544/cbd8c231-74ee-4f24-86f5-440ad0efbed0)
